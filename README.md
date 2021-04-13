@@ -123,3 +123,5 @@ Sometimes it might be of interest to duplicate a model intentionally. For exampl
     └── predictions
         └── val_1ec218cb7f2bf1a74087e1dd31afe34e.csv
 ```
+
+Copyright (C) 2021 University Hospital Heidelberg
